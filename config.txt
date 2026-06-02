@@ -1,1 +1,1 @@
-App_status=active
+APP_STATUS=production
